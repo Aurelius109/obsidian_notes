@@ -1,5 +1,6 @@
 # Ingest log
 
-| Date | Item | Raw location / URL | Source card | Added by | Rights / note |
-| --- | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | _title_ | `raw/...` or URL | [[source-slug]] | _name_ | _public / private / link only_ |
+| Date       | Item                                                           | Raw location / URL                           | Source card                                                | Added by                   | Rights / note  |
+| ---------- | -------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- | -------------------------- | -------------- |
+| 2026-10-14 | Лекция №1. Системы контроля версий и практическая работа с Git | [[raw/lectures/ВвИТ Лекция №1 Git 2026.pdf]] | [[../wiki/sources/Лекция 1 ВвИТ. Git\|Лекция 1 ВвИТ. Git]] | Кельин Викентий Евгеньевич | course-private |
+|            |                                                                |                                              |                                                            |                            |                |
